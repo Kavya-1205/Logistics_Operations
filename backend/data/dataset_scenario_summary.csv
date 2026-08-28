@@ -1,0 +1,4 @@
+Dataset,Rows,Avg Available Workers,Avg Scheduled Workers,Avg Actual Workers,Avg Backlog,Avg Cycle Time (min),Avg Equipment Availability,Peak Period Rows,High Backlog Rows (>500)
+01_balanced_lean_workforce.csv,2268,26.9,26.1,25.1,266.8,31.7,0.96,630,54
+02_workforce_shortage.csv,2268,22.3,21.6,20.8,606.4,54.9,0.959,630,1656
+03_peak_bottleneck_stress.csv,2268,19.8,19.9,18.5,858.7,78.9,0.946,666,2233
